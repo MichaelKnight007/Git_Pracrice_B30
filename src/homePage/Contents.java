@@ -4,5 +4,7 @@ public class Contents {
 
     // Facebook
     // Tweeter
-    // Instegram
+    // Instagram
+    // youtube
+    // whatsapp
 }
