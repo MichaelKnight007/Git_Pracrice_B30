@@ -2,3 +2,5 @@ more TC
 
 regression
 smoke
+
+functional testing
