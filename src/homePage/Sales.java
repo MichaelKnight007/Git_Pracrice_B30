@@ -11,4 +11,9 @@ public class Sales {
 
     // %30
     //%20
+
+    // New items for sale
+
+    //New discount rates:
+    // %5, % 10
 }
