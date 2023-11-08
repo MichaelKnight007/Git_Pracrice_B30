@@ -16,4 +16,8 @@ public class Sales {
 
     //New discount rates:
     // %5, % 10
+
+    // No holiday sales upto now...
+
+    // Added holiday sales and discount rates with some promo codes.
 }
